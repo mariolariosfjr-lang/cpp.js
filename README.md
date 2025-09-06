@@ -1,2 +1,2 @@
 # cpp.js
-This is a package that you can code C++ in JavaScript but its popular DO NOT USE HPPS AND H
+Note: This import of js is corrupted and no longer available but YOU CANNOT USE THIS IMPORT.
